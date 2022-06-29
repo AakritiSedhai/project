@@ -25,7 +25,7 @@ password_entry =Entry(window,bd=0, width=10,font=('comic sans', 17, 'normal'),bg
 password_entry.insert(0,"password")
 password_entry.place(x=435,y=195)
 log_in=Button(window,text="SIGN-IN",bd=0,font=("comic sans",17,"bold","underline"),bg="#b7daef",width=11,fg="#0a3570")
-log_in.place(x=400,y=262)
+log_in.place(x=400,y=261)
 
 
 
